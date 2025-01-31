@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewScreen" type="id" />
+    <item name="buttonNumber1" type="id" />
+    <item name="buttonNumber2" type="id" />
+    <item name="buttonNumber3" type="id" />
+    <item name="buttonNumber4" type="id" />
+    <item name="buttonNumber5" type="id" />
+    <item name="buttonNumber6" type="id" />
+    <item name="buttonNumber7" type="id" />
+    <item name="buttonNumber8" type="id" />
+    <item name="buttonNumber9" type="id" />
+    <item name="buttonNumber0" type="id" />
+    <item name="buttonAdd" type="id" />
+    <item name="buttonDivide" type="id" />
+    <item name="buttonMultiply" type="id" />
+    <item name="buttonSubtract" type="id" />
+    <item name="buttonEquals" type="id" />
+</resources>
